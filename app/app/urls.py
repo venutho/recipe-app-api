@@ -19,4 +19,4 @@ from django.urls import path
 urlpatterns = [
     path('admin/', admin.site.urls),
 ]
-#name="venu"
+# name="venu"
