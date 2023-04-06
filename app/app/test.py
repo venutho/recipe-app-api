@@ -15,7 +15,6 @@ class CalcTests(SimpleTestCase):
 
         self.assertEqual(res, 30)
 
-
     def test_subtract_numbers(self):
         """Test subtracting one numbers from another"""
         res = calc.subtract(20, 10)
